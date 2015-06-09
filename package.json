@@ -1,14 +1,14 @@
 {
     "name": "4-color-dark",
     "theme": "syntax",
-    "version": "0.1.1",
+    "version": "0.1.2",
     "description": "This dark syntax theme is for those who hate too many colors.",
     "repository": "https://github.com/zhanzhenzhen/atom-4-color-dark",
     "license": "MIT",
     "dependencies": {
-        "atom-4-color-base": "0.2.1"
+        "atom-4-color-base": "0.2.3"
     },
     "engines": {
-        "atom": ">=0.117.0"
+        "atom": ">=0.207.0"
     }
 }
